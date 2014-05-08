@@ -50,7 +50,9 @@ SOURCES += main.cpp\
     view/fileinspector.cpp \
     view/dialogs/connector/connectordialog.cpp \
     view/canvas/sprite.cpp \
-    view/dialogs/searchdialog.cpp
+    view/dialogs/searchdialog.cpp \
+    view/dialogs/statecreator/abstractspritestate.cpp \
+    view/dialogs/statecreator/statefactory.cpp
 
 HEADERS  += geditor.h \
     model/toyobject.h \
@@ -94,7 +96,9 @@ HEADERS  += geditor.h \
     view/canvas/sprite.h \
     view/dialogs/searchdialog.h \
     view/dialogs/aboutdialog.h \
-    view/dialogs/cadialog.h
+    view/dialogs/cadialog.h \
+    view/dialogs/statecreator/abstractspritestate.h \
+    view/dialogs/statecreator/statefactory.h
 
 FORMS    += geditor.ui
 

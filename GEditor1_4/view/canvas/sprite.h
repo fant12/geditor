@@ -61,7 +61,7 @@ class Sprite : public QGraphicsObject, public CanvasItem {
     protected:
         bool _hasInitialState;
 
-        QStateMachine *_stateMachine;
+        GETSET(QStateMachine*, stateMachine, StateMachine)
 
         GETSET(int, frameWidth, FrameWidth)
 
