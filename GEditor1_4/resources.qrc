@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/icons/about.ico</file>
+        <file>resources/images/icons/arrow.ico</file>
+        <file>resources/images/icons/audio.ico</file>
+        <file>resources/images/icons/closep.ico</file>
+        <file>resources/images/icons/connector.ico</file>
+        <file>resources/images/icons/copy.ico</file>
+        <file>resources/images/icons/cut.ico</file>
+        <file>resources/images/icons/drag.ico</file>
+        <file>resources/images/icons/exit.ico</file>
+        <file>resources/images/icons/export.ico</file>
+        <file>resources/images/icons/find.ico</file>
+        <file>resources/images/icons/help.ico</file>
+        <file>resources/images/icons/import.ico</file>
+        <file>resources/images/icons/new.ico</file>
+        <file>resources/images/icons/newl.ico</file>
+        <file>resources/images/icons/newp.ico</file>
+        <file>resources/images/icons/open.ico</file>
+        <file>resources/images/icons/options.ico</file>
+        <file>resources/images/icons/paste.ico</file>
+        <file>resources/images/icons/rotation.ico</file>
+        <file>resources/images/icons/save.ico</file>
+        <file>resources/images/icons/saveAs.ico</file>
+        <file>resources/images/icons/sprites.ico</file>
+    </qresource>
+    <qresource prefix="/editor">
+        <file>resources/editor/wordlist.txt</file>
+    </qresource>
+    <qresource prefix="/dialogpics">
+        <file>resources/images/dialogpics/spritewindow_anim.png</file>
+        <file>resources/images/dialogpics/spritewindow_connect.png</file>
+    </qresource>
+</RCC>
